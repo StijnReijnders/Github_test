@@ -13,3 +13,4 @@ for (i in 1:60) {
 # The boundary of the Mandelbrot set is a fractal curve
 # No matter how much you zoom in, the boundary stays "rough" 
 image(x, y, nM, col = hcl.colors(50, "Inferno"), useRaster = TRUE)
+1+1
